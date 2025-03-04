@@ -1,6 +1,6 @@
 ![prop 1](/img/prop.png)
 
-# AI Scaling 🍃 :
+# AI Scaling 🍃
 adalah shell script C yang saya bikin umtuk
 mengurangi beban device secara efisen
 
